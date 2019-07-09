@@ -13,7 +13,8 @@
 5. 方法二
 	在Tampermonkey中添加如下脚本代码
 	**Zhihu**
-	```
+
+```
 // ==UserScript==
 // @name         ZhihuHE
 // @namespace    http://tampermonkey.net/
@@ -31,9 +32,12 @@
     document.querySelector("link[rel='shortcut icon']").href = "https://cdn.luogu.org/images/favicon3.ico";
     document.querySelector("link[rel*='icon']").href = "https://cdn.luogu.org/images/favicon3.ico";
 })();
-	```
-	**Qzone**
-	```
+```
+
+
+**Qzone**
+
+```
 // ==UserScript==
 // @name         QzoneHE
 // @namespace    http://tampermonkey.net/
