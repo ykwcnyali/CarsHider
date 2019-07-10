@@ -15,3 +15,5 @@
 	var parent = self.parentElment;
 	var removed = parent.removeChild(self);
 })();
+
+//这个东西目前有锅...
