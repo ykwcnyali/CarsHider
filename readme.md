@@ -30,7 +30,7 @@
     'use strict';
     document.title='首页_洛谷||计算机科学教育新生态';
     document.querySelector("link[rel='shortcut icon']").href = "https://cdn.luogu.org/images/favicon3.ico";
-    document.querySelector("link[rel*='icon']").href = "https://cdn.luogu.org/images/favicon3.ico";
+    document.querySelector("link[rel*='icon']").href = "https://cdn.luogu.org/favicon.ico";
 })();
 ```
 
